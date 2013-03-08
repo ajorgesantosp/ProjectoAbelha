@@ -15,4 +15,9 @@ public class NewClass {
         System.out.println("Hello World.");
     }
     
+    
+    public void metodoLMBBR(String p1)
+    {
+        System.out.println(p1);
+    }
 }
